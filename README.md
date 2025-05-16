@@ -2,7 +2,7 @@
 
 An interactive, browser-based tool that demonstrates how inflation impacts the value of money over time. Built with **HTML**, **CSS**, and **JavaScript**, this static web app visualizes the erosion of purchasing power using real-time calculations and charts — all running fully client-side.
 
-🔗 **Live Demo**: [https://your-username.github.io/inflation-impact-calculator/](https://silverbackossi.github.io/inflation-impact-calculator/)
+🔗 **Live Demo**: [https://silverbackossi.github.io/inflation-impact-calculator/](https://silverbackossi.github.io/inflation-impact-calculator/)
 
 ---
 
